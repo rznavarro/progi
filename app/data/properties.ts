@@ -107,4 +107,17 @@ export const properties: Property[] = [
     bathrooms: 2,
     image: '/images/prop-7.jpg',
   },
+  {
+    id: 'PRO-008',
+    title: 'Casa Mirador con Vista Panorámica',
+    location: 'Concón, Valparaíso',
+    operation: 'venta',
+    type: 'casa',
+    priceUF: 21000,
+    priceCLP: 970000000,
+    meters: 1100,
+    bedrooms: 6,
+    bathrooms: 7,
+    image: '/images/hero-poster.jpg',
+  },
 ];
